@@ -1,3 +1,3 @@
 # to see the production build download the 'build' folder
-# to edit the build in vue run npm install
-# then npm run serve
+# to edit the build in Vue.js run 'npm install' in command line
+# then run 'npm run serve'
